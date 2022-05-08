@@ -1,0 +1,3 @@
+package com.example.mvi_architecture_android.ui.viewState
+
+interface BaseViewState
